@@ -9,7 +9,9 @@ export default function Root() {
             <div>
               <NavLink className="mr-5" to="/">Home</NavLink>
               <NavLink className="mr-5" to="/about">About</NavLink>
-              <NavLink to="/contact">Contact</NavLink>
+              <NavLink to="/contact">Contact </NavLink>
+              <NavLink to="/add"> Add Eulogy</NavLink>
+
 
             </div>
           </nav>
